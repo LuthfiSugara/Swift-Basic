@@ -9,12 +9,20 @@
 /* Begin PBXFileReference section */
 		50CAC12D26C3D0A000A8271A /* ConstantAndVariable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ConstantAndVariable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		50CAC12E26C3D0C900A8271A /* TypeAnnotations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypeAnnotations.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50CAC12F26C3D2E500A8271A /* DataType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DataType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50CAC13026C3D3CF00A8271A /* Optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Optionals.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50CAC13126C3D50400A8271A /* ErrorHandling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ErrorHandling.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50CAC13226C3DD3C00A8271A /* AssertAndPrecondition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssertAndPrecondition.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		50CAC12526C3D05500A8271A = {
 			isa = PBXGroup;
 			children = (
+				50CAC13226C3DD3C00A8271A /* AssertAndPrecondition.playground */,
+				50CAC13126C3D50400A8271A /* ErrorHandling.playground */,
+				50CAC13026C3D3CF00A8271A /* Optionals.playground */,
+				50CAC12F26C3D2E500A8271A /* DataType.playground */,
 				50CAC12E26C3D0C900A8271A /* TypeAnnotations.playground */,
 				50CAC12D26C3D0A000A8271A /* ConstantAndVariable.playground */,
 			);

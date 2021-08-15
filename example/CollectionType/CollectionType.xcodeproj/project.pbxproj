@@ -1,0 +1,79 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5096A77226C582FA0007A87B /* Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Array.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5096A77326C588960007A87B /* Sets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Sets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5096A77426C58F250007A87B /* PerformingSetOperations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PerformingSetOperations.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5096A77526C597160007A87B /* Dictionary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Dictionary.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5096A76B26C582BD0007A87B = {
+			isa = PBXGroup;
+			children = (
+				5096A77526C597160007A87B /* Dictionary.playground */,
+				5096A77426C58F250007A87B /* PerformingSetOperations.playground */,
+				5096A77326C588960007A87B /* Sets.playground */,
+				5096A77226C582FA0007A87B /* Array.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5096A76C26C582BD0007A87B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 5096A76F26C582BD0007A87B /* Build configuration list for PBXProject "CollectionType" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5096A76B26C582BD0007A87B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5096A77026C582BD0007A87B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5096A77126C582BD0007A87B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5096A76F26C582BD0007A87B /* Build configuration list for PBXProject "CollectionType" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5096A77026C582BD0007A87B /* Debug */,
+				5096A77126C582BD0007A87B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5096A76C26C582BD0007A87B /* Project object */;
+}

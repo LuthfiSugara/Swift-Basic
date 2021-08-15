@@ -47,7 +47,7 @@ let favoriteSnack = [
 ]
 
 func buyFavoriteSnack(person: String, vendingMachine: VendingMachine) throws {
-    let snackName = favoriteSnack[person] ?? "Candy Bar"
+    let snackName = favoriteSnack[person] ?? "Canndy Bar"
     try vendingMachine.vend(itemNamed: snackName)
 }
 
