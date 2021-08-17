@@ -1,0 +1,83 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		507C592A26CBA6400005B3D8 /* ClosureExpression.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClosureExpression.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		507C592B26CBABAB0005B3D8 /* TrailingClosures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TrailingClosures.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		507C592C26CBBAB00005B3D8 /* Capturing Values.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Capturing Values.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		507C592D26CBBD870005B3D8 /* ClosureAreReferenceType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClosureAreReferenceType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		507C592E26CBBFFD0005B3D8 /* EscapingClosure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EscapingClosure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		507C592F26CBC51D0005B3D8 /* AutoClosure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AutoClosure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		507C592326CBA61B0005B3D8 = {
+			isa = PBXGroup;
+			children = (
+				507C592F26CBC51D0005B3D8 /* AutoClosure.playground */,
+				507C592E26CBBFFD0005B3D8 /* EscapingClosure.playground */,
+				507C592D26CBBD870005B3D8 /* ClosureAreReferenceType.playground */,
+				507C592C26CBBAB00005B3D8 /* Capturing Values.playground */,
+				507C592B26CBABAB0005B3D8 /* TrailingClosures.playground */,
+				507C592A26CBA6400005B3D8 /* ClosureExpression.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		507C592426CBA61B0005B3D8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 507C592726CBA61B0005B3D8 /* Build configuration list for PBXProject "Closures" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 507C592326CBA61B0005B3D8;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		507C592826CBA61B0005B3D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		507C592926CBA61B0005B3D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		507C592726CBA61B0005B3D8 /* Build configuration list for PBXProject "Closures" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				507C592826CBA61B0005B3D8 /* Debug */,
+				507C592926CBA61B0005B3D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 507C592426CBA61B0005B3D8 /* Project object */;
+}

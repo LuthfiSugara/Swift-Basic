@@ -11,7 +11,8 @@ func multiplyTwoInts(_ a: Int, _ b: Int) -> Int{
 //Using Function Types
 var mathFunction: (Int, Int) -> Int = addTwoInts
 mathFunction(2,3) //5
-mathFunction = multiplyTwoInts(3,3) //9
+mathFunction = multiplyTwoInts
+mathFunction(3,3)//9
 
 
 //Funtion type as parameter type
