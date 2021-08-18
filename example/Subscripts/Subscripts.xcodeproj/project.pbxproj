@@ -1,0 +1,79 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5070106A26CD55D60088E990 /* SubscriptSyntax.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SubscriptSyntax.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5070106B26CD5CDB0088E990 /* SubscriptUsage.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SubscriptUsage.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5070106C26CD5D040088E990 /* SubscriptOptions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SubscriptOptions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5070106D26CD5D1D0088E990 /* TypeSubscription.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypeSubscription.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5070106326CD55AC0088E990 = {
+			isa = PBXGroup;
+			children = (
+				5070106D26CD5D1D0088E990 /* TypeSubscription.playground */,
+				5070106C26CD5D040088E990 /* SubscriptOptions.playground */,
+				5070106B26CD5CDB0088E990 /* SubscriptUsage.playground */,
+				5070106A26CD55D60088E990 /* SubscriptSyntax.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5070106426CD55AC0088E990 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 5070106726CD55AC0088E990 /* Build configuration list for PBXProject "Subscripts" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5070106326CD55AC0088E990;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5070106826CD55AC0088E990 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5070106926CD55AC0088E990 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5070106726CD55AC0088E990 /* Build configuration list for PBXProject "Subscripts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5070106826CD55AC0088E990 /* Debug */,
+				5070106926CD55AC0088E990 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5070106426CD55AC0088E990 /* Project object */;
+}
