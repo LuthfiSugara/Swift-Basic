@@ -1,0 +1,73 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		501AEF6726CEBD4A00F022AB /* DeinitializersInAction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DeinitializersInAction.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		501AEF6026CEBD3100F022AB = {
+			isa = PBXGroup;
+			children = (
+				501AEF6726CEBD4A00F022AB /* DeinitializersInAction.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		501AEF6126CEBD3100F022AB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 501AEF6426CEBD3100F022AB /* Build configuration list for PBXProject "Deinitialization" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 501AEF6026CEBD3100F022AB;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		501AEF6526CEBD3100F022AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		501AEF6626CEBD3100F022AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		501AEF6426CEBD3100F022AB /* Build configuration list for PBXProject "Deinitialization" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				501AEF6526CEBD3100F022AB /* Debug */,
+				501AEF6626CEBD3100F022AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 501AEF6126CEBD3100F022AB /* Project object */;
+}

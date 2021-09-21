@@ -1,0 +1,103 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		504B30F626D6B43B00F9AA93 /* ProtocolSyntax.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolSyntax.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		504B30F726D6B54E00F9AA93 /* PropertyRequirements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PropertyRequirements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5057AB4526DE98ED00CF84F4 /* MethodRequirement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MethodRequirement.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5057AB4626DE9D9F00CF84F4 /* MutatingMethodRequirement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MutatingMethodRequirement.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5057AB4726DE9F0700CF84F4 /* InitializerRequirements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = InitializerRequirements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5057AB4826DEA04800CF84F4 /* ProtocolAsType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolAsType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B0A26FA254D00B72D94 /* Delegation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Delegation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B0B26FA293900B72D94 /* AddingProtocolConformance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AddingProtocolConformance.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B0C26FA2B4500B72D94 /* AdoptingProtocol.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AdoptingProtocol.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B0D26FA2CAB00B72D94 /* CollectionsOfProtocolTypes .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "CollectionsOfProtocolTypes .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B0E26FA2E5600B72D94 /* ProtocolInheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolInheritance.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B0F26FA2F3900B72D94 /* ClassOnlyProtocol.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClassOnlyProtocol.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B1026FA2FAC00B72D94 /* ProtocolComposition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolComposition.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B1126FA30AF00B72D94 /* CheckingForProtocolConformance .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "CheckingForProtocolConformance .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B1226FA320B00B72D94 /* OptionalProtocolRequirements .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "OptionalProtocolRequirements .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B1326FA32CA00B72D94 /* ProtocolExtentions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolExtentions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		504B30EF26D6B38600F9AA93 = {
+			isa = PBXGroup;
+			children = (
+				50C37B1326FA32CA00B72D94 /* ProtocolExtentions.playground */,
+				50C37B1226FA320B00B72D94 /* OptionalProtocolRequirements .playground */,
+				50C37B1126FA30AF00B72D94 /* CheckingForProtocolConformance .playground */,
+				50C37B1026FA2FAC00B72D94 /* ProtocolComposition.playground */,
+				50C37B0F26FA2F3900B72D94 /* ClassOnlyProtocol.playground */,
+				50C37B0E26FA2E5600B72D94 /* ProtocolInheritance.playground */,
+				50C37B0D26FA2CAB00B72D94 /* CollectionsOfProtocolTypes .playground */,
+				50C37B0C26FA2B4500B72D94 /* AdoptingProtocol.playground */,
+				50C37B0B26FA293900B72D94 /* AddingProtocolConformance.playground */,
+				50C37B0A26FA254D00B72D94 /* Delegation.playground */,
+				5057AB4826DEA04800CF84F4 /* ProtocolAsType.playground */,
+				5057AB4726DE9F0700CF84F4 /* InitializerRequirements.playground */,
+				5057AB4626DE9D9F00CF84F4 /* MutatingMethodRequirement.playground */,
+				5057AB4526DE98ED00CF84F4 /* MethodRequirement.playground */,
+				504B30F726D6B54E00F9AA93 /* PropertyRequirements.playground */,
+				504B30F626D6B43B00F9AA93 /* ProtocolSyntax.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		504B30F026D6B38600F9AA93 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 504B30F326D6B38600F9AA93 /* Build configuration list for PBXProject "Protocols" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 504B30EF26D6B38600F9AA93;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		504B30F426D6B38600F9AA93 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		504B30F526D6B38600F9AA93 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		504B30F326D6B38600F9AA93 /* Build configuration list for PBXProject "Protocols" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				504B30F426D6B38600F9AA93 /* Debug */,
+				504B30F526D6B38600F9AA93 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 504B30F026D6B38600F9AA93 /* Project object */;
+}

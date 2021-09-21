@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		50C37B1B26FA348000B72D94 /* ProblemThatGenericsSolve.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProblemThatGenericsSolve.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B1C26FA35CB00B72D94 /* GenericType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GenericType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B1D26FA366500B72D94 /* ExtendingGenericType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ExtendingGenericType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B1E26FA372B00B72D94 /* TypeConstraints .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "TypeConstraints .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B1F26FA397600B72D94 /* AssociatedTypes .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "AssociatedTypes .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B2026FA3ACD00B72D94 /* GenericWhereClauses .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "GenericWhereClauses .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B2126FA3B8300B72D94 /* ExtensionsWithGeneric .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "ExtensionsWithGeneric .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B2226FA3BEA00B72D94 /* ContextualWhereClauses .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "ContextualWhereClauses .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B2326FA3C5400B72D94 /* AssociatedTypes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssociatedTypes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		50C37B2426FA3C9C00B72D94 /* GenericSubscripts .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "GenericSubscripts .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		50C37B1426FA343F00B72D94 = {
+			isa = PBXGroup;
+			children = (
+				50C37B2426FA3C9C00B72D94 /* GenericSubscripts .playground */,
+				50C37B2326FA3C5400B72D94 /* AssociatedTypes.playground */,
+				50C37B2226FA3BEA00B72D94 /* ContextualWhereClauses .playground */,
+				50C37B2126FA3B8300B72D94 /* ExtensionsWithGeneric .playground */,
+				50C37B2026FA3ACD00B72D94 /* GenericWhereClauses .playground */,
+				50C37B1F26FA397600B72D94 /* AssociatedTypes .playground */,
+				50C37B1E26FA372B00B72D94 /* TypeConstraints .playground */,
+				50C37B1D26FA366500B72D94 /* ExtendingGenericType.playground */,
+				50C37B1C26FA35CB00B72D94 /* GenericType.playground */,
+				50C37B1B26FA348000B72D94 /* ProblemThatGenericsSolve.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		50C37B1526FA343F00B72D94 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 50C37B1826FA343F00B72D94 /* Build configuration list for PBXProject "Generics" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 50C37B1426FA343F00B72D94;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		50C37B1926FA343F00B72D94 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		50C37B1A26FA343F00B72D94 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		50C37B1826FA343F00B72D94 /* Build configuration list for PBXProject "Generics" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50C37B1926FA343F00B72D94 /* Debug */,
+				50C37B1A26FA343F00B72D94 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 50C37B1526FA343F00B72D94 /* Project object */;
+}

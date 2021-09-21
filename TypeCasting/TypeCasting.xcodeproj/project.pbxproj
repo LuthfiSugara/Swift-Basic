@@ -1,0 +1,79 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		504B30D526D6AA5800F9AA93 /* DefiningAClassHierarchy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DefiningAClassHierarchy.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		504B30D626D6AD2200F9AA93 /* CheckingType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CheckingType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		504B30D726D6ADEB00F9AA93 /* Downcasting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Downcasting.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		504B30D826D6AEDB00F9AA93 /* TypeCastingForAnyAndAnyObject.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypeCastingForAnyAndAnyObject.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		504B30CE26D6AA2200F9AA93 = {
+			isa = PBXGroup;
+			children = (
+				504B30D826D6AEDB00F9AA93 /* TypeCastingForAnyAndAnyObject.playground */,
+				504B30D726D6ADEB00F9AA93 /* Downcasting.playground */,
+				504B30D626D6AD2200F9AA93 /* CheckingType.playground */,
+				504B30D526D6AA5800F9AA93 /* DefiningAClassHierarchy.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		504B30CF26D6AA2200F9AA93 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 504B30D226D6AA2200F9AA93 /* Build configuration list for PBXProject "TypeCasting" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 504B30CE26D6AA2200F9AA93;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		504B30D326D6AA2200F9AA93 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		504B30D426D6AA2200F9AA93 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		504B30D226D6AA2200F9AA93 /* Build configuration list for PBXProject "TypeCasting" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				504B30D326D6AA2200F9AA93 /* Debug */,
+				504B30D426D6AA2200F9AA93 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 504B30CF26D6AA2200F9AA93 /* Project object */;
+}
